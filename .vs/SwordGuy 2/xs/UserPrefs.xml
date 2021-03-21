@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{06236023-35B3-0E57-92CC-C10350C7DC11}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SwordScript.cs">
+    <Files>
+      <File FileName="Assets/DarkKnightDestroyed.cs" Line="10" Column="6" />
+      <File FileName="Assets/DarkKnight.cs" Line="22" Column="24" />
+      <File FileName="Assets/SwordScript.cs" Line="39" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5fe57269-49f6-4abd-b7d4-ecb3580359a9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

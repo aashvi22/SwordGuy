@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 477182117
+    locked: 0
+  - name: mountain1
+    uniqueID: 1193664299
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Red
+    uniqueID: 4031198061
+    locked: 0
+  - name: White
+    uniqueID: 3409324081
+    locked: 0
